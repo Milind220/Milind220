@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Milind220
-- 👀 I’m interested in robots, programming, tech startups and building things in general!
+- 👀 I’m interested in robots, programming, tech startups, and making the world a better place!
 - 🌱 I’m currently learning embedded software and flutter/dart (building an app!), and furthering my robotics skills
 - 💞️ I’m looking to collaborate on robotics projects - quadrupeds, bipeds, drones - I love em all
 - 🧑‍💻 Check out my work and projects at www.milindsharma.work
