@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Milind220&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milind220&exclude_repo=HK-air-quality-analysis&exclude_language=Rich-Text-Format)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milind220&exclude_repo=HK-air-quality-analysis&hide=Rich-Text-Format)
