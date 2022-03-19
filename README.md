@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on robotics projects - quadrupeds, bipeds, drones - I love em all
 - 🧑‍💻 Check out my work and projects at www.milindsharma.work
 - 📫 How to reach me; Email: msharma8-c@my.cityu.edu.hk, LinkedIn: https://www.linkedin.com/in/milindsharma8/
+- Like my projects? Buy me a [coffee](https://www.buymeacoffee.com/MilindSharma)! ☕️
 
 <!---
 Milind220/Milind220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
