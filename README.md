@@ -19,7 +19,8 @@ I’m looking to collaborate on robotics projects - quadrupeds, bipeds, drones -
 <div
      align=center
 <a href="https://twitter.com/milindS_">
-  <img align=center alt="Milind Sharma | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align=center alt="Milind Sharma | Twitter" width="40px"
+src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 ...
 <a href="https://www.linkedin.com/in/milindsharma8/">
