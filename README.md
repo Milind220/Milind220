@@ -8,7 +8,10 @@ I’m interested in robots, programming, space, tech startups, and making the wo
 
 I’m looking to collaborate on robotics projects - quadrupeds, bipeds, drones - I love em all
 
-Check out my work and projects at www.milindsharma.work   
+#### Check out my work and projects at www.milindsharma.work   
+
+#### Email me at milindsharma8@gmail.com
+
 
 
 <div
@@ -19,10 +22,6 @@ Check out my work and projects at www.milindsharma.work
 ...
 <a href="https://www.linkedin.com/in/milindsharma8/">
   <img align=center alt="Milind Sharma | LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-...
-<a href="milindsharma8@gmail.com">
-  <img align=center alt="Milind Sharma | Gmail" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 </div>
 
