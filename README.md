@@ -16,8 +16,10 @@ I’m looking to collaborate on robotics projects - quadrupeds, bipeds, drones -
 
 
 
-<div
-     align=center
+<div align=center
+
+![SOCIALS](https://user-images.githubusercontent.com/68847270/159579144-3653c584-c469-4bc3-852b-d38173847c64.svg)
+
 <a href="https://twitter.com/milindS_">
   <img align=center alt="Milind Sharma | Twitter" width="40px"
 src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
