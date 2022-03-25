@@ -32,12 +32,37 @@ src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twi
 
 ---
 
+<div align=center
+
 Like my projects? Buy me a coffee!
 
 <a href="https://www.buymeacoffee.com/MilindSharma" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+</div>
+
+---
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Milind220&show_icons=true)
+<div align=center
+     
+![Group 1-5](https://user-images.githubusercontent.com/68847270/160066047-06003d6c-8553-4d16-b5da-0bcfb8328520.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milind220&exclude_repo=HK-air-quality-analysis)
+  <img align=center alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  style="padding-right:20px;"/>
+  <img align="center" alt="Firebase" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg". style="padding-right:20px;"/>
+  <img align="center" alt="Flutter" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg"  style="padding-right:20px;"/>
+  <img align="center" alt="Dart" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" style="padding-right:20px;"/>
+  <img align="center" alt="Python" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:20px;"/>
+  <img align="center" alt="C" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:20px;"/>
+  <img align="center" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
+  <img align="center" alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:20px;"/>
+  <img align="center" alt="Figma" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" style="padding-right:20px;"/>
+  
+  
+</div>
+
+<br />
+<br />
+<br />
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Milind220&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milind220&exclude_repo=HK-air-quality-analysis&theme=radical))
