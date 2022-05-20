@@ -53,6 +53,7 @@ Like my projects? Buy me a coffee!
 <img align="center" alt="Dart" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" style="padding-right:20px;"/>
 <img align="center" alt="Flutter" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg"  style="padding-right:20px;"/>
 <img align="center" alt="C" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:20px;"/>
+<img align="center" alt="C++" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:20px;"/>
 
 <br />
 <br />
