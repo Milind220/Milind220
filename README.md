@@ -78,7 +78,7 @@ Like my projects? Buy me a coffee!
 ![Stats](https://user-images.githubusercontent.com/68847270/160179235-6bc21305-126f-4010-b9bf-f14297d80a3f.svg)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Milind220&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milind220&exclude_repo=HK-air-quality-analysis&theme=radical))
+![Your Repository's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Milind220&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Milind220&exclude_repo=HK-air-quality-analysis&theme=radical))
 
 </div>
