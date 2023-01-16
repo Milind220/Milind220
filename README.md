@@ -79,6 +79,6 @@ Like my projects? Buy me a coffee!
 
 
 ![Your Repository's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Milind220&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milind220&theme=radical)](https://github.com/Milind220/README)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milind220&theme=radical&hide=jupyter%20notebook,html&langs_count=4)](https://github.com/Milind220/README)
                   
 </div>
