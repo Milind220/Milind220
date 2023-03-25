@@ -6,7 +6,7 @@
 
 Hi, I’m Milind
 
-I’m interested in robots, programming, space, tech startups, and making the world a better place! I’m currently learning embedded software, building an app with Flutter, and maintaining Ozone - The easiest way to get air quality data with Python code.
+I’m interested in robots, software, electronics, space, tech startups, and making the world a better place! I’m currently building a wireless charging system for a robot, and writing mostly embedded software. Also the maintainer of [Ozon3](https://github.com/Ozon3Org/Ozon3) - The easiest way to get air quality data with Python code.
 
 I’m looking to collaborate on robotics projects - quadrupeds, bipeds, drones - I love em all
 
