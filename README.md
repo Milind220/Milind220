@@ -8,9 +8,7 @@ Hi, I’m Milind
 
 I’m interested in robots, software, electronics, space, tech startups, and making the world a better place! I’m currently building a wireless charging system for a robot, and writing mostly embedded software. Also the maintainer of [Ozon3](https://github.com/Ozon3Org/Ozon3) - The easiest way to get air quality data with Python code.
 
-I’m looking to collaborate on robotics projects - quadrupeds, bipeds, drones - I love em all
-
-#### Check out my work and projects at www.milindsharma.work   
+<!-- #### Check out my work and projects at www.milindsharma.work    -->
 
 #### Email me at milindsharma8@gmail.com
 
