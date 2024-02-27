@@ -6,7 +6,10 @@
 
 Hi, I’m Milind
 
-I’m interested in robots, software, electronics, space, tech startups, and making the world a better place! I’m currently building a wireless charging system for a robot, and writing mostly embedded software. Also the maintainer of [Ozon3](https://github.com/Ozon3Org/Ozon3) - The easiest way to get air quality data with Python code.
+I’m interested in robots, software, electronics, space, tech startups, and making the world a better place! I'm current doing a lotttt of electronics design at Clearbot and writing mostly embedded software. Working on an open-source Rust project on the side - soon to be announced!
+
+
+Also the maintainer of [Ozon3](https://github.com/Ozon3Org/Ozon3) - The easiest way to get air quality data with Python code.
 
 <!-- #### Check out my work and projects at www.milindsharma.work    -->
 
