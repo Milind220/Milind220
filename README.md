@@ -2,19 +2,23 @@
 ![Group 1-3](https://user-images.githubusercontent.com/68847270/159576309-04e1776c-f7a6-407e-b70b-2061266619dd.svg)
 
 
-
-
 Hi, I’m Milind
 
-I’m interested in robots, software, electronics, space, tech startups, and making the world a better place! I'm current doing a lotttt of electronics design at Clearbot and writing mostly embedded software. Working on an open-source Rust project on the side - soon to be announced!
+I'm all about pushing humanity forward, focusing on two big dreams: creating endless clean energy and exploring space. Why? Because energy is key to our progress, and space is the final frontier for our adventurous spirit.
+Simply put, I want to help us evolve from where we are now to a civilization that thrives across the solar system. We can make it happen.
+
+What I do:
+- Lots of embedded software. STM32's are sick.
+- Electronics design at Clearbot
+- Engineering overall!
 
 
 Also the maintainer of [Ozon3](https://github.com/Ozon3Org/Ozon3) - The easiest way to get air quality data with Python code.
+and currently building [Baud](https://github.com/Milind220/Baud) - A serial monitor that's so sexy, even your data will be impressed.
 
 <!-- #### Check out my work and projects at www.milindsharma.work    -->
 
 #### Email me at milindsharma8@gmail.com
-
 
 
 <div align=center
