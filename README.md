@@ -58,13 +58,6 @@ Like my projects? Buy me a coffee!
 <br />
 <br />
 <br />
-
-![Group 3](https://user-images.githubusercontent.com/68847270/160179031-9832417a-1d56-43ca-8601-bfad78e2e6b2.svg)
-
-  <img align="center" alt="Firebase" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg". style="padding-right:20px;"/>
-  <img align="center" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
-  <img align="center" alt="Figma" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" style="padding-right:20px;"/>
-  
   
 </div>
 
