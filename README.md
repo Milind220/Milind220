@@ -22,12 +22,11 @@ Also the maintainer of [Ozon3](https://github.com/Ozon3Org/Ozon3) - The easiest 
 ![Group 4](https://user-images.githubusercontent.com/68847270/160178623-b078f366-5799-47a7-882b-9f7c66aa76c9.svg)
 
 <a href="https://twitter.com/milindS_">
-  <img align=center alt="Milind Sharma | Twitter" width="40px"
-src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align=center alt="Milind Sharma | X" width="40px"
+src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x.svg" />
 </a>
-...
 <a href="https://www.linkedin.com/in/milindsharma8/">
-  <img align=center alt="Milind Sharma | LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align=center alt="Milind Sharma | LinkedIn" width="40px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
 </a>
 </div>
 
@@ -45,8 +44,6 @@ Like my projects? Buy me a coffee!
 
 
 <div align=center
-     
-![Group 1-5](https://user-images.githubusercontent.com/68847270/160178680-14ac5a3e-0574-49da-88be-5aa7cfca28e4.svg)
 
 ![Group 2-2](https://user-images.githubusercontent.com/68847270/160178836-a22cf236-2874-40ba-9e6c-ba6b090a5988.svg)
 
@@ -54,16 +51,10 @@ Like my projects? Buy me a coffee!
 <img align="center" alt="Python" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:20px;"/>
 <img align="center" alt="Flutter" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg"  style="padding-right:20px;"/>
 <img align="center" alt="C" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:20px;"/>
-<img align="center" alt="C++" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:20px;"/>
-<br />
 <br />
 <br />
   
 </div>
-
-
-<br />
-<br />
 
 <div align=center
      
