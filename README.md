@@ -14,7 +14,8 @@ What I do:
 
 
 Also the maintainer of [Ozon3](https://github.com/Ozon3Org/Ozon3) - The easiest way to get air quality data with Python code.
-and currently building [Baud](https://github.com/Milind220/Baud) - A serial monitor that's so sexy, even your data will be impressed.
+
+And currently building [Baud](https://github.com/Milind220/Baud) - A serial monitor that's so sexy, even your data will be impressed.
 
 <!-- #### Check out my work and projects at www.milindsharma.work    -->
 
