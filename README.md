@@ -49,9 +49,9 @@ Like my projects? Buy me a coffee!
 ![Group 1-5](https://user-images.githubusercontent.com/68847270/160178680-14ac5a3e-0574-49da-88be-5aa7cfca28e4.svg)
 
 ![Group 2-2](https://user-images.githubusercontent.com/68847270/160178836-a22cf236-2874-40ba-9e6c-ba6b090a5988.svg)
-     
+
+<img align="center" alt="Rust" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" style="padding-right:20px;"/>     
 <img align="center" alt="Python" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:20px;"/>
-<img align="center" alt="Dart" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg" style="padding-right:20px;"/>
 <img align="center" alt="Flutter" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg"  style="padding-right:20px;"/>
 <img align="center" alt="C" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:20px;"/>
 <img align="center" alt="C++" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:20px;"/>
@@ -61,10 +61,8 @@ Like my projects? Buy me a coffee!
 
 ![Group 3](https://user-images.githubusercontent.com/68847270/160179031-9832417a-1d56-43ca-8601-bfad78e2e6b2.svg)
 
-  <img align=center alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  style="padding-right:20px;"/>
   <img align="center" alt="Firebase" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg". style="padding-right:20px;"/>
   <img align="center" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:20px;" />
-  <img align="center" alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:20px;"/>
   <img align="center" alt="Figma" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" style="padding-right:20px;"/>
   
   
