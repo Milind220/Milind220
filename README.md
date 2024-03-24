@@ -56,6 +56,8 @@ Like my projects? Buy me a coffee!
 <img align="center" alt="Python" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:20px;"/>
 <img align="center" alt="Flutter" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg"  style="padding-right:20px;"/>
 <img align="center" alt="C" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:20px;"/>
+<img align="center" alt="C++" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:20px;"/>
+
 <br />
 <br />
   
@@ -67,6 +69,6 @@ Like my projects? Buy me a coffee!
 
 
 ![Your Repository's Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Milind220&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milind220&theme=radical&hide=jupyter%20notebook,html&langs_count=4)](https://github.com/Milind220/README)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Milind220&theme=radical&hide=jupyter%20notebook,html,cmake&langs_count=5)](https://github.com/Milind220/README)
                   
 </div>
