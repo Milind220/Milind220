@@ -11,7 +11,8 @@ I'm building KiForge - The AI layer for KiCAD, to bring to PCB designers the sam
 
 Projects you'd find interesting:
 
-- 🦀 [KiCAD-IPC-RS](https://github.com/milind220/kicad-ipc-rs) - Rust bindings for the KiCAD IPC API! 
+- 🦀 [KiCAD-IPC-RS](https://github.com/milind220/kicad-ipc-rs) - Rust bindings for the KiCAD IPC API!
+- 𜷷 [Agent SDK](https://github.com/Milind220/agent-sdk-rs) - A reimplementation of Browser Use's Agent SDK in Rust. The simplest, most effective harness you will ever use.
 
 (there's going to be more here every time you check)
 
