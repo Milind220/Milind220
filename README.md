@@ -13,6 +13,7 @@ Projects you'd find interesting:
 
 - 🦀 [KiCAD-IPC-RS](https://github.com/milind220/kicad-ipc-rs) - Rust bindings for the KiCAD IPC API!
 - 𜷷 [Agent SDK](https://github.com/Milind220/agent-sdk-rs) - A reimplementation of Browser Use's Agent SDK in Rust. The simplest, most effective harness you will ever use.
+- 🧰 [KiUtils Rust](https://github.com/Milind220/kiutils-rs) - Rust library to make lossless code representations of KiCAD design files. Inspired by KiUtils Python, then much improved.
 
 (there's going to be more here every time you check)
 
