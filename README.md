@@ -4,7 +4,7 @@
 
 Hi, I’m Milind
 
-Currently obssessing over making PCB design 10x faster and better. 
+Currently obsessed with making PCB design 10x faster and better. 
 There's a bottleneck in engineering - Code can be written in minutes, PCBs take weeks. It's inevitable that it changes. I want to bring about that change.
 
 I'm building KiForge - The AI layer for KiCAD, to bring to PCB designers the same acceleration CoPilot, Cursor, and Claude Code brought to software engineers.
