@@ -7,7 +7,7 @@ Hi, I’m Milind
 Currently obsessed with making PCB design 10x faster and better. 
 There's a bottleneck in engineering - Code can be written in minutes, PCBs take weeks. It's inevitable that it changes. I want to bring about that change.
 
-I'm building KiForge - The AI layer for KiCAD, to bring to PCB designers the same acceleration CoPilot, Cursor, and Claude Code brought to software engineers.
+I'm working on this by making PCB design accessible to way more people. More to come.
 
 Projects you'd find interesting:
 
@@ -17,7 +17,5 @@ Projects you'd find interesting:
 - 𜷷 [Agent SDK Rust](https://github.com/Milind220/agent-sdk-rs) - A reimplementation of Browser Use's Agent SDK in Rust.
 - 🥞 [Ki-Stack](https://github.com/Milind220/ki-stack) - GStack inspired skills to massively boost how well Claude Code uses KiCAD
 
-
-(there's going to be more here every time you check)
 
 You can follow me on [X](https://x.com/milindS) and [LinkedIn](https://www.linkedin.com/in/milindsharma8/) (I love X and hate LinkedIn, so follow accordingly)
