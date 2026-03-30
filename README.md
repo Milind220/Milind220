@@ -15,6 +15,7 @@ Projects you'd find interesting:
 - 🧰 [KiUtils Rust](https://github.com/Milind220/kiutils-rs) - Rust library to make lossless code representations of KiCAD design files. Inspired by KiUtils Python, then much improved.
 - 𜷷 [Agent SDK](https://github.com/Milind220/agent-sdk) - A fork of Browser Use's Agent SDK. The simplest, most effective harness you will ever use.
 - 𜷷 [Agent SDK Rust](https://github.com/Milind220/agent-sdk-rs) - A reimplementation of Browser Use's Agent SDK in Rust.
+- 🥞 [Ki-Stack](https://github.com/Milind220/ki-stack) - GStack inspired skills to massively boost how well Claude Code uses KiCAD
 
 
 (there's going to be more here every time you check)
