@@ -16,7 +16,7 @@ Projects you'd find interesting:
 - 𜷷 [Agent SDK](https://github.com/Milind220/agent-sdk) - A fork of Browser Use's Agent SDK. The simplest, most effective harness you will ever use.
 - 𜷷 [Agent SDK Rust](https://github.com/Milind220/agent-sdk-rs) - A reimplementation of Browser Use's Agent SDK in Rust.
 - 🥞 [Ki-Stack](https://github.com/Milind220/ki-stack) - GStack inspired skills to massively boost how well Claude Code uses KiCAD
-- 🍔 [Sate](https://github.com/Milind220/sate) - A skill + scripts so your OpenClaw can give you restaurant recommendations (so you finally know where to take your gf for dinner!)
+- 🍔 [Sate](https://github.com/Milind220/sate) - Skill + scripts so your OpenClaw can give you restaurant recommendations (dinner ideas your gf will actually like!)
 
 
 You can follow me on [X](https://x.com/milindS) and [LinkedIn](https://www.linkedin.com/in/milindsharma8/) (I love X and hate LinkedIn, so follow accordingly)
