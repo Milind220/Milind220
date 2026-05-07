@@ -13,7 +13,6 @@ Projects you'd find interesting:
 
 - 🦀 [KiCAD-IPC-RS](https://github.com/milind220/kicad-ipc-rs) - Rust bindings for the KiCAD IPC API!
 - 🧰 [KiUtils Rust](https://github.com/Milind220/kiutils-rs) - Rust library to make lossless code representations of KiCAD design files. Inspired by KiUtils Python, then much improved.
-- 𜷷 [Agent SDK](https://github.com/Milind220/agent-sdk) - A fork of Browser Use's Agent SDK. The simplest, most effective harness you will ever use.
 - 𜷷 [Agent SDK Rust](https://github.com/Milind220/agent-sdk-rs) - A reimplementation of Browser Use's Agent SDK in Rust.
 - 🥞 [Ki-Stack](https://github.com/Milind220/ki-stack) - GStack inspired skills to massively boost how well Claude Code uses KiCAD
 - 🍔 [Sate](https://github.com/Milind220/sate) - Skill + scripts so your OpenClaw can give you restaurant recommendations (dinner ideas your gf will actually like!)
