@@ -15,6 +15,7 @@ Projects you'd find interesting:
 - 🧰 [KiUtils Rust](https://github.com/Milind220/kiutils-rs) - Rust library to make lossless code representations of KiCAD design files. Inspired by KiUtils Python, then much improved.
 - 𜷷 [Agent SDK Rust](https://github.com/Milind220/agent-sdk-rs) - A reimplementation of Browser Use's Agent SDK in Rust.
 - 🥞 [Ki-Stack](https://github.com/Milind220/ki-stack) - GStack inspired skills to massively boost how well Claude Code uses KiCAD
+- 🚴 [KiCAD IPC CLI](https://github.com/Milind220/kicad-ipc-cli) - A CLI to give your agents access to KiCAD's IPC API. Let's them use your PCB editor! 
 - 🍔 [Sate](https://github.com/Milind220/sate) - Skill + scripts so your OpenClaw can give you restaurant recommendations (dinner ideas your gf will actually like!)
 
 
