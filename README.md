@@ -12,6 +12,7 @@ I'm working on this by making PCB design accessible to way more people. More to 
 Projects you'd find interesting:
 
 - 🦀 [KiCAD-IPC-RS](https://github.com/milind220/kicad-ipc-rs) - Rust bindings for the KiCAD IPC API!
+- 🌴[Inception](https://github.com/milind220/inception) - A skill + runtime to give *any* agent Claude Code's Dynamic Workflows. This ones a goodie!
 - 🧰 [KiUtils Rust](https://github.com/Milind220/kiutils-rs) - Rust library to make lossless code representations of KiCAD design files. Inspired by KiUtils Python, then much improved.
 - 𜷷 [Agent SDK Rust](https://github.com/Milind220/agent-sdk-rs) - A reimplementation of Browser Use's Agent SDK in Rust.
 - 🥞 [Ki-Stack](https://github.com/Milind220/ki-stack) - GStack inspired skills to massively boost how well Claude Code uses KiCAD
