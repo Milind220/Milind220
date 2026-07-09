@@ -4,10 +4,9 @@
 
 Hi, I’m Milind
 
-Currently obsessed with making PCB design 10x faster and better. 
-There's a bottleneck in engineering - Code can be written in minutes, PCBs take weeks. It's inevitable that it changes. I want to bring about that change.
+I'm currently building a software-defined defense company in India.
 
-I'm working on this by making PCB design accessible to way more people. More to come.
+Also I hate it when PCBs come in with bugs that need revisions, so I made an incredible PCB reviewer at TryCopper.App to fix that.
 
 Projects you'd find interesting:
 
